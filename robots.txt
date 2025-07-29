@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://duoday.github.io/147/sitemap-index.xml
